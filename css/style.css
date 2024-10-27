@@ -40,7 +40,7 @@ header {
 
 .boton:hover, .boton2:hover, .boton3:hover, .boton4:hover, .boton5:hover {
     cursor: pointer;
-    background: linear-gradient(-45deg, #F52F57, #F79D5C);
+    background: linear-gradient(-45deg, #F52F57, #A20021);
 }
 
 .boton4:hover {
@@ -48,7 +48,7 @@ header {
 }
 
 .boton {
-    background-color: #F79D5C;
+    background-color: #A20021;
     border-radius: 50px;
     color: white;
     align-self: center;
@@ -96,7 +96,7 @@ header {
 
 .boton2 {
     align-self: self-end;
-    background-color: #F79D5C;
+    background-color: #A20021;
     border-radius: 50px;
     color: white;
     padding: 2.5% 8%;
@@ -167,7 +167,7 @@ header {
 
 .point {
     padding: 1.5% 4%;
-    background-color: #f5d64fbe;
+    background-color: #F52F57;
     color: white;
     font-weight: 700;
     font-size: 16px;
@@ -229,7 +229,7 @@ header {
 .boton3 {
     justify-content: flex-start;
     align-self: center;
-    background-color: #F3752B;
+    background-color: #a20010;
     border-radius: 50px;
     color: white;
     padding: 1% 5%;
@@ -247,7 +247,7 @@ footer {
     display: flex;
     flex-direction: row;
     height: 224px;
-    color: #F79D5C;
+    color: #A20021;
 }
 
 .footerMorado article {
@@ -268,7 +268,7 @@ footer {
     align-self: center;
     background-color: white;
     border-radius: 50px;
-    color:#F3752B;
+    color:#a20010;
     padding: 1% 2%;
     text-align: center;
     box-shadow: rgba(31, 26, 78, 0.35) 0px 5px 10px;
@@ -333,7 +333,7 @@ input[type="email"] {
 
 .boton5 {
     align-self: center;
-    background-color:#f79D5C;
+    background-color:#A20021;
     border-radius: 50px;
     color:white;
     padding: 3% 5%;

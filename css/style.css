@@ -24,7 +24,7 @@ header {
     gap: 20px;
     align-self: center;
     font-size: 15px;
-    color: #f79D5C;
+    color: #EDEDF4;
     text-align: center;
     padding: 0.5%;
 }
@@ -213,7 +213,7 @@ header {
 }
 
 .players h2 {
-    color: #F3752B;
+    color: #2424257c;
     font-weight: 700;
     font-size: 16.07px;
     padding: 2%;
@@ -243,11 +243,11 @@ footer {
 }
 
 .footerMorado {
-    background-color: #F79D5C;
+    background-color: #EDEDF4;
     display: flex;
     flex-direction: row;
     height: 224px;
-    color: white;
+    color: #F79D5C;
 }
 
 .footerMorado article {
